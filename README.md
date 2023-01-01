@@ -25,6 +25,7 @@ Esta análise tem como objetivo responder as seguintes perguntas:
 - Jupyter Notebook;
 - SQlite;
 - Git e Github;
+- SQLite
 - Power BI
 - 
 ##  Estratégia de solução
@@ -39,9 +40,30 @@ O projeto foi desenvolvido aplicando os seguintes passos:
 
 **Passo 04 - Análise Exploratória de Dados:** O objetivo desta etapa foi explorar melhor os dados para entender melhor o perfil dos inscritos e saber o quanto influencia na nota média
 
-**Passo 05 - Construir um Banco de Dados para subir pra Cloud.** Nesta etapa eu construí um banco de dados com os dados tratados, usando sqlite3.
+**Passo 05 - Respondendo as Perguntas de Negócio** Esse passo o objetivo foi responder as perguntas de negócio.
+
+**Top 3 insights:**
+
+As Regiões Norte e Nordeste estão abaixo da Média Nacional
+
+![2023-01-01 (2)](https://user-images.githubusercontent.com/87071331/210171749-aa726612-2fc5-4a42-911d-3cf1a1c78c2b.png)
+
+As Notas entre as disciplinas tem forte correlação positiva
+
+![2023-01-01 (1)](https://user-images.githubusercontent.com/87071331/210171870-5f8fe61b-6840-4731-8b61-740d8a02e461.png)
+
+Quando comparado nota x IDH do Município a correlação é fraca.
+
+![2023-01-01 (3)](https://user-images.githubusercontent.com/87071331/210171969-743374d4-6f0e-440a-865b-96c96e0e5fea.png)
+
+
+**Passo 06 - Construir um Banco de Dados para subir pra Cloud.** Nesta etapa eu construí um banco de dados com os dados tratados, usando sqlite3.
 
 **Passo 7 - Power BI:** Usei  essa ferramenta de visualização para construir o dashboard
+![2023-01-01](https://user-images.githubusercontent.com/87071331/210171320-4711f191-82b3-4a94-8ff5-c0783a1d60bb.png)
+
+<p align='center'>
+    <img src = 'img/image.jpg'>
 
 ## Próximos Passos
 Conectar o banco de dados na Nuvem  e 
