@@ -27,7 +27,7 @@ Esta análise tem como objetivo responder as seguintes perguntas:
 - Git e Github;
 - SQLite
 - Power BI
-- 
+
 ##  Estratégia de solução
 
 O projeto foi desenvolvido aplicando os seguintes passos:
