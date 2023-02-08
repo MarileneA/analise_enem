@@ -59,11 +59,6 @@ Quando comparado nota x IDH do Município a correlação é fraca.
 
 **Passo 06 - Construir um Banco de Dados para subir pra Cloud.** Nesta etapa eu construí um banco de dados com os dados tratados, usando sqlite3.
 
-**Passo 7 - Power BI:** Usei  essa ferramenta de visualização para construir o dashboard
-![2023-01-01](https://user-images.githubusercontent.com/87071331/210171320-4711f191-82b3-4a94-8ff5-c0783a1d60bb.png)
-
-<p align='center'>
-    <img src = 'img/image.jpg'>
 
 ## Próximos Passos
 Conectar o banco de dados na Nuvem  e 
